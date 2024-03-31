@@ -9,7 +9,7 @@
 
 [Source](https://github.com/rhasspy/hassio-addons/tree/master/porcupine1)
 
-## Docker Image
+## Docker Image -
 
 ``` sh
 docker run -it -p 10400:10400 rhasspy/wyoming-porcupine1
